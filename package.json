@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-extname",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Return a filename extension.",
   "license": "Apache-2.0",
   "author": {
