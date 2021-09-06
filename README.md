@@ -95,6 +95,12 @@ for ( i = 0; i < files.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/dirname`][@stdlib/utils/dirname]: return a directory name.
+
 </section>
 
 <!-- /.related -->
@@ -155,6 +161,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-extname/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/utils/dirname]: https://github.com/stdlib-js/utils-dirname
+
+<!-- </related-links> -->
 
 </section>
 
