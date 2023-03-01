@@ -107,7 +107,7 @@ for ( i = 0; i < files.length; i++ ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/utils/dirname`][@stdlib/utils/dirname]</span><span class="delimiter">: </span><span class="description">return a directory name.</span>
+-   <span class="package-name">[`@stdlib/utils-dirname`][@stdlib/utils/dirname]</span><span class="delimiter">: </span><span class="description">return a directory name.</span>
 
 </section>
 
