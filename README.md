@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import extname from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-extname@deno/mod.js';
+import extname from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-extname@v0.2.0-deno/mod.js';
 ```
 
 #### extname( filename )
@@ -70,7 +70,7 @@ var ext = extname( 'index.js' );
 var statSync = require( 'fs' ).statSync;
 var path = require( 'path' );
 var readDir = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/fs-read-dir' ).sync;
-import extname from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-extname@deno/mod.js';
+import extname from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-extname@v0.2.0-deno/mod.js';
 
 var files;
 var fpath;
